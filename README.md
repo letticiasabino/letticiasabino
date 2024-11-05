@@ -25,6 +25,8 @@ Estou focada em desenvolver habilidades práticas para o mercado de TI, como pro
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=letticiasabino&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/letticiasabino/dio-lab-open-source)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=letticiasabino&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lett%C3%ADcia-s-a63bb7125/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/letticiasabino/) [![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:letticiasabinoc@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/letticiasabino/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521989280182)
 
