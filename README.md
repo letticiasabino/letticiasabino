@@ -6,7 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade das Améric
 ## Formação e Aprendizado
 🎓 Cursando Análise e Desenvolvimento de Sistemas na [FAM](https://www.vemprafam.com.br)
 
-📚 Cursos complementares na [DIO](https://www.web.dio.me/home) em parceria com a [XP Inc.](https://www.xpinc.com/)
+📚 Cursos complementares no [Programadores Do Amanhã - PdA]((https://programadoresdoamanha.org.br/pt) e também na [Softex PE](https://bfd.softexpe.org.br/)
 
 🎥 Estudo constante em canais como Curso em Vídeo do [Gustavo Guanabara](https://www.youtube.com/cursoemvideo) e [Dev em Dobro](https://www.youtube.com/@DevemDobro)
 
