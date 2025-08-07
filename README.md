@@ -4,11 +4,11 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade das Américas (FAM) e estou dando meus primeiros passos no mundo da tecnologia. Venho da área de vendas e acredito que minhas habilidades em comunicação e atendimento ao cliente podem ser um diferencial para entender as necessidades dos usuários e contribuir para a construção de soluções tecnológicas.
 
 ## Formação e Aprendizado
-🎓 Cursando Análise e Desenvolvimento de Sistemas na [FAM](https://www.vemprafam.com.br)
+🎓 Cursando Análise e Desenvolvimento de Sistemas na [FAM.](https://www.vemprafam.com.br)
 
-📚 Cursos complementares no [Programadores Do Amanhã - PdA](https://programadoresdoamanha.org.br/pt) e também na [Softex PE](https://bfd.softexpe.org.br/)
+📚 Cursos complementares no [Programadores Do Amanhã - PdA](https://programadoresdoamanha.org.br/pt) e também na [Softex PE.](https://bfd.softexpe.org.br/)
 
-🎥 Estudo constante em canais como Curso em Vídeo do [Gustavo Guanabara](https://www.youtube.com/cursoemvideo) e [Dev em Dobro](https://www.youtube.com/@DevemDobro)
+🎥 Estudo constante em canais como Curso em Vídeo do [Gustavo Guanabara](https://www.youtube.com/cursoemvideo) e [Dev em Dobro.](https://www.youtube.com/@DevemDobro)
 
 ## GitHub Stats
 
