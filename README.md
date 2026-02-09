@@ -13,7 +13,7 @@
 ║   ╚══════╝╚══════╝   ╚═╝      ╚═╝   ╚═╝ ╚═════╝╚═╝╚═╝  ╚═╝                ║
 ║                                                                           ║
 ║                  👋 Olá! Eu sou a Lettícia Sabino                         ║
-║              Desenvolvedora | Inovadora | Tech Enthusiast                 ║
+║              Desenvolvedora | Inovadora | Entusiasta de Tecnologia        ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -36,8 +36,6 @@ Venho da área de **vendas e customer success**, o que me deu uma perspectiva ú
 <img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
 
 ---
-
-
 
 ## 🚀 Meu Percurso de Aprendizado
 
@@ -112,18 +110,40 @@ Estou **focada em desenvolver habilidades práticas** para o mercado de TI, abra
 
 <img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
 
-## 🎯 Interesses & Objetivos
+<div align="center">
 
-- 💻 Desenvolvimento Full Stack 
-- 🧠 Experiência do Usuário (UX)  
-- 🔧 Versionamento de código e boas práticas  
-- 🚀 Evoluir tecnicamente e contribuir com equipes colaborativas e orientadas a resultados  
 
+### 🔥 Contribuições Recentes
+
+```
+📅 Período: Sep 25, 2023 - Present
+🎯 Total de Commits: 87
+🔄 Streak Atual: 0 dias
+📈 Maior Sequência: 3 dias (Oct 21-23, 2025)
+```
+
+</div>
+
+---
+
+## 🎮 Projetos & Contribuições
+
+<details open>
+<summary><b>📁 Meus Projetos em Destaque</b></summary>
+
+### Em Construção 🚀
+- **Portifólio**: *Hub central desenvolvido com HTML, CSS e JavaScript puro para consolidar minha trajetória acadêmica em ADS e exibir projetos práticos, integrando APIs e automações de deploy.*
+
+> Confira todos os meus projetos no [meu GitHub](https://github.com/letticiasabino)
+
+</details>
+
+---
 <img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
 
 ## 💬 Vamos nos conectar?
 
-Se você curte tecnologia, criatividade e projetos com propósito, bora trocar uma ideia 👇
+Gosto de trocar ideias, colaborar em projetos e conhecer pessoas interessadas em tech. Se quer conversar sobre código, carreiras em tech ou qualquer outra coisa, me chama! 👇
 
 <p align="center">
   <a href="https://www.linkedin.com/in/letticiasabino/">
@@ -142,6 +162,52 @@ Se você curte tecnologia, criatividade e projetos com propósito, bora trocar u
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 💡 Curiosidades Sobre Mim
+
+- 🎧 Codifico melhor com música de fundo (trap, lofi, synthwave 🎶)
+- 📱 Mobile-first é meu mantra
+- ☕ Desenvolvedora alimentada por café e determinação
+- 🌙 Muitas vezes você me encontra debugando à noite
+- 🎯 Acredito que bom código muda vidas
+
+---
+
+## 🌟 Estatísticas Rápidas
+
+```
+┌─────────────────────────────────────────┐
+│  Linguagens Favoritas:  JS, Python,     │
+│  Editor Preferido:      VSCode          │
+│  Café por dia:          3+ xícaras ☕  │
+│  Paciência com bugs:    ∞               │
+│  Entusiasmo por tech:   ∞∞∞             │
+└─────────────────────────────────────────┘
+```
+
+---
+
+## 📝 Licença & Último Update
+
+Este README foi criado com ❤️, café ☕ e muita criatividade.
+
+**Última atualização**: Fevereiro de 2025
+
+---
+
+<div align="center">
+
+### 🚀 Obrigada por visitar meu perfil!
+
+*Se encontrou algo interessante, deixe uma ⭐ em algum repositório!*
+
+![](https://komarev.com/ghpvc/?username=LeticiaSabino&color=ff006e&style=for-the-badge)
+
+</div>
+
+---
 
 <p align="center">
   🛠️ Construído com 💜 por <b>Lettícia Sabino</b>
