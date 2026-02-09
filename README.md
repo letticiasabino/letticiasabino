@@ -1,32 +1,148 @@
-# Olá! Eu sou a Lettícia Sabino 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9F2BFF&center=true&vCenter=true&width=500&lines=Oi%2C+eu+sou+a+Lett%C3%ADcia+Sabino+%F0%9F%91%8B;Desenvolvedora+em+forma%C3%A7%C3%A3o;FullStack+%7C+Criatividade+%26+Tecnologia" alt="Typing SVG" />
+</h1>
 
-## 🚀 Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade das Américas (FAM) e estou dando meus primeiros passos no mundo da tecnologia. Venho da área de vendas e acredito que minhas habilidades em comunicação e atendimento ao cliente podem ser um diferencial para entender as necessidades dos usuários e contribuir para a construção de soluções tecnológicas.
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ██╗     ███████╗████████╗████████╗██╗ ██████╗██╗ █████╗                 ║
+║   ██║     ██╔════╝╚══██╔══╝╚══██╔══╝██║██╔════╝██║██╔══██╗                ║
+║   ██║     █████╗     ██║      ██║   ██║██║     ██║███████║                ║
+║   ██║     ██╔══╝     ██║      ██║   ██║██║     ██║██╔══██║                ║
+║   ███████╗███████╗   ██║      ██║   ██║╚██████╗██║██║  ██║                ║
+║   ╚══════╝╚══════╝   ╚═╝      ╚═╝   ╚═╝ ╚═════╝╚═╝╚═╝  ╚═╝                ║
+║                                                                           ║
+║                  👋 Olá! Eu sou a Lettícia Sabino                         ║
+║              Desenvolvedora | Inovadora | Tech Enthusiast                 ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-## Formação e Aprendizado
-🎓 Cursando Análise e Desenvolvimento de Sistemas na [FAM.](https://www.vemprafam.com.br)
+<p align="center">
+  <em>Transformando ideias em soluções digitais com propósito</em>
+</p>
 
-📚 Cursos complementares no [Programadores Do Amanhã - PdA](https://programadoresdoamanha.org.br/pt) e também na [Softex PE.](https://bfd.softexpe.org.br/)
+<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
 
-🎥 Estudo constante em canais como Curso em Vídeo do [Gustavo Guanabara](https://www.youtube.com/cursoemvideo) e [Dev em Dobro.](https://www.youtube.com/@DevemDobro)
+## 🎯 Quem Sou Eu?
 
-## GitHub Stats
+Sou uma **estudante de Análise e Desenvolvimento de Sistemas** na Faculdade das Américas (FAM) e apaixonada por transformar ideias em soluções tecnológicas reais. Estou em uma jornada constante de aprendizado e descoberta no mundo da tecnologia.
 
-![Letticia Sabino GitHub stats](https://github-readme-stats.vercel.app/api?username=letticiasabino&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LETTICIASABINO&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### ⚡ O Diferencial
+Venho da área de **vendas e customer success**, o que me deu uma perspectiva única sobre entender necessidades reais dos usuários. Essa combinação de comunicação + atendimento + desenvolvimento tecnológico é meu superpoder para criar soluções que realmente importam.
 
-## Interesse e Objetivo
-Estou focada em desenvolver habilidades práticas para o mercado de TI, como programação, versionamento de código e criação de soluções voltadas à experiência do usuário. Estou sempre buscando aprender mais sobre a área e espero contribuir para o sucesso da equipe com meu perfil comunicativo e orientado a resultados.
+> *"Código é conversação. Eu falo tanto em linguagem de máquina quanto em linguagem de gente"* 💬
 
-## Habilidades
+<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+---
 
-## Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=letticiasabino&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/letticiasabino/dio-lab-open-source)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=letticiasabino&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+## 🚀 Meu Percurso de Aprendizado
 
-## Conecte-se comigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lett%C3%ADcia-s-a63bb7125/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/letticiasabino/) [![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:letticiasabinoc@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/letticiasabino/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521989280182)
+```
+📚 FORMAÇÃO FORMAL
+├─ 🎓 Cursando: Análise e Desenvolvimento de Sistemas (FAM - Faculdade das Américas)
+│
+📖 APRENDIZADO COMPLEMENTAR
+├─ 💻 Programadores Do Amanhã (PdA) - Desenvolvimento Full Stack com JS
+├─ 🔧 Softex PE - Desenvolvimento Backend com Python
+├─ 📹 Cursos em Vídeo (Gustavo Guanabara, Dev em Dobro e outros)
+│
+🎯 METODOLOGIA
+└─ Estudo constante + Projetos práticos + Comunidade
+```
 
+<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,figma,vscode&theme=dark" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
+
+### 🎨 Habilidades Soft
+- 💬 **Comunicação Clara**: Explicar conceitos técnicos de forma acessível
+- 🤝 **Trabalho em Equipe**: Colaborativo e adaptável
+- 🎯 **Orientado a Resultados**: Sempre focado no objetivo final
+- 📈 **Aprendizado Contínuo**: Sempre procurando evoluir
+
+---
+
+## 🔥 Meu Interesse & Objetivo
+
+Estou **focada em desenvolver habilidades práticas** para o mercado de TI, abrangendo:
+
+```
+🌟 EXPERTISE
+├─ 💻 Programação limpa e eficiente
+├─ 🔌 Versionamento de código & Boas práticas
+├─ 🎨 Interface User-Friendly & Design thinking
+├─ 🚀 Criação de soluções escaláveis
+└─ 📊 Análise de dados & Performance
+
+🎯 OBJETIVO
+└─ Contribuir para projetos impactantes com um perfil 
+   comunicativo, criativo e orientado a resultados
+```
+
+**Em resumo: Quero aprender fazendo, evoluir constantemente e deixar um impacto positivo através da tecnologia.** ✨
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=letticiasabino&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=letticiasabino&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=letticiasabino&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=letticiasabino&theme=dracula&row=1&no-bg=true&no-frame=true" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
+
+## 🎯 Interesses & Objetivos
+
+- 💻 Desenvolvimento Full Stack 
+- 🧠 Experiência do Usuário (UX)  
+- 🔧 Versionamento de código e boas práticas  
+- 🚀 Evoluir tecnicamente e contribuir com equipes colaborativas e orientadas a resultados  
+
+<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
+
+## 💬 Vamos nos conectar?
+
+Se você curte tecnologia, criatividade e projetos com propósito, bora trocar uma ideia 👇
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/letticiasabino/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/letticiasabino">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:letticiasabino@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/490568472154210315">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5521989280182?text=Ol%C3%A1%2C%20me%20chamo%20Sr(a)%20Fulano(a)%2C%20gostaria%20de...">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🛠️ Construído com 💜 por <b>Lettícia Sabino</b>
+</p>
