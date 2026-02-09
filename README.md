@@ -179,7 +179,7 @@ Gosto de trocar ideias, colaborar em projetos e conhecer pessoas interessadas em
 
 ```
 ┌─────────────────────────────────────────┐
-│  Linguagens Favoritas:  JS, Python,     │
+│  Linguagens Favoritas:  JS e Python     │
 │  Editor Preferido:      VSCode          │
 │  Café por dia:          3+ xícaras ☕  │
 │  Paciência com bugs:    ∞               │
