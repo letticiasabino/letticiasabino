@@ -1,214 +1,301 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9F2BFF&center=true&vCenter=true&width=900&lines=Oii%2C+eu+me+chamo+Lett%C3%ADcia+Sabino+%F0%9F%91%8B;Desenvolvedora+em+forma%C3%A7%C3%A3o;FullStack+%7C+Criatividade+%7C+Tecnologia" alt="Typing SVG" />
-</h1>
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                                      ║
-║  ██╗     ███████╗████████╗████████╗██╗ ██████╗██╗ █████╗        ███████╗ █████╗ ██████╗ ██╗███╗   ██╗ ██████╗        ║
-║  ██║     ██╔════╝╚══██╔══╝╚══██╔══╝██║██╔════╝██║██╔══██╗       ██╔════╝██╔══██╗██╔══██╗██║████╗  ██║██╔═══██╗       ║
-║  ██║     █████╗     ██║      ██║   ██║██║     ██║███████║       ███████╗███████║██████╔╝██║██╔██╗ ██║██║   ██║       ║
-║  ██║     ██╔══╝     ██║      ██║   ██║██║     ██║██╔══██║       ╚════██║██╔══██║██╔══██╗██║██║╚██╗██║██║   ██║       ║
-║  ███████╗███████╗   ██║      ██║   ██║╚██████╗██║██║  ██║       ███████║██║  ██║██████╔╝██║██║ ╚████║╚██████╔╝       ║
-║  ╚══════╝╚══════╝   ╚═╝      ╚═╝   ╚═╝ ╚═════╝╚═╝╚═╝  ╚═╝       ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝        ║
-║                                                                                                                      ║
-║                                                                                                                      ║
-║                                       Desenvolvedora | Inovadora | Entusiasta de Tecnologia                          ║
-║                                                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<p align="center">
-  <em>Transformando ideias em soluções digitais com propósito</em>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
-
-## 🎯 Quem Sou Eu?
-
-Sou uma **estudante de Análise e Desenvolvimento de Sistemas** na Faculdade das Américas (FAM) e apaixonada por transformar ideias em soluções tecnológicas reais. Estou em uma jornada constante de aprendizado e descoberta no mundo da tecnologia.
-
-### ⚡ O Diferencial
-Venho da área de **vendas e customer success**, o que me deu uma perspectiva única sobre entender necessidades reais dos usuários. Essa combinação de comunicação + atendimento + desenvolvimento tecnológico é meu superpoder para criar soluções que realmente importam.
-
-> *"Código é conversação. Eu falo tanto em linguagem de máquina quanto em linguagem de gente"* 💬
-
-<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
-
----
-
-## 🚀 Meu Percurso de Aprendizado
-
-```
-📚 FORMAÇÃO FORMAL
-├─ 🎓 Cursando: Análise e Desenvolvimento de Sistemas (FAM - Faculdade das Américas)
-│
-📖 APRENDIZADO COMPLEMENTAR
-├─ 💻 Programadores Do Amanhã (PdA) - Desenvolvimento Full Stack com JS
-├─ 🔧 Softex PE - Desenvolvimento Backend com Python
-├─ 📹 Cursos em Vídeo (Gustavo Guanabara, Dev em Dobro e outros)
-│
-🎯 METODOLOGIA
-└─ Estudo constante + Projetos práticos + Comunidade
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,figma,vscode&theme=dark" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
-
-### 🎨 Habilidades Soft
-- 💬 **Comunicação Clara**: Explicar conceitos técnicos de forma acessível
-- 🤝 **Trabalho em Equipe**: Colaborativo e adaptável
-- 🎯 **Orientado a Resultados**: Sempre focado no objetivo final
-- 📈 **Aprendizado Contínuo**: Sempre procurando evoluir
-
----
-
-## 🔥 Meu Interesse & Objetivo
-
-Estou **focada em desenvolver habilidades práticas** para o mercado de TI, abrangendo:
-
-```
-🌟 EXPERTISE
-├─ 💻 Programação limpa e eficiente
-├─ 🔌 Versionamento de código & Boas práticas
-├─ 🎨 Interface User-Friendly & Design thinking
-├─ 🚀 Criação de soluções escaláveis
-└─ 📊 Análise de dados & Performance
-
-🎯 OBJETIVO
-└─ Contribuir para projetos impactantes com um perfil 
-   comunicativo, criativo e orientado a resultados
-```
-
-**Em resumo: Quero aprender fazendo, evoluir constantemente e deixar um impacto positivo através da tecnologia.** ✨
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=letticiasabino&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=letticiasabino&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=letticiasabino&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=letticiasabino&theme=dracula&row=1&no-bg=true&no-frame=true" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
-
 <div align="center">
 
-
-### 🔥 Contribuições Recentes
-
-```
-📅 Período: Sep 25, 2023 - Present
-🎯 Total de Commits: 87
-🔄 Streak Atual: 0 dias
-📈 Maior Sequência: 3 dias (Oct 21-23, 2025)
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:4f0d99,100:9f2bff&height=200&section=header&text=Lettícia%20Sabino&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20São%20Gonçalo,%20RJ&descAlignY=58&descSize=16&descColor=c4b5fd&animation=fadeIn" width="100%" />
 
 </div>
 
----
+<div align="center">
 
-## 🎮 Projetos & Contribuições
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=9F2BFF&center=true&vCenter=true&width=700&lines=Desenvolvedora+Full+Stack+em+construção+constante;Node.js+%7C+Python+%7C+Next.js+%7C+Java+Spring+AI;Transformando+experiência+humana+em+código;ADS+%40+FAM+%7C+Programadores+do+Amanhã+%7C+SoftexPE;Bootcamp+NTT+DATA+—+Backend+Java+com+Spring+AI;Construindo+soluções+que+importam+🚀)](https://git.io/typing-svg)
 
-<details open>
-<summary><b>📁 Meus Projetos em Destaque</b></summary>
+</div>
 
-### Em Construção 🚀
-- **Portifólio**: *Hub central desenvolvido com HTML, CSS e JavaScript puro para consolidar minha trajetória acadêmica em ADS e exibir projetos práticos, integrando APIs e automações de deploy.*
+<br/>
 
-> Confira todos os meus projetos no [meu GitHub](https://github.com/letticiasabino)
+<div align="center">
 
-</details>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-letticiasabino--desenvolvedora-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/letticiasabino-desenvolvedora/)
+[![GitHub](https://img.shields.io/badge/GitHub-letticiasabino-9f2bff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/letticiasabino)
+[![Gmail](https://img.shields.io/badge/Gmail-letticiasabino%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:letticiasabino@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-9f2bff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d)](https://wa.me/5521989280182)
 
----
-<img src="https://user-images.githubusercontent.com/74038190/212750125-5e2d5c1c-4c6a-4a63-b8f0-6e3b2a9b5c4f.gif" width="100%" />
+</div>
 
-## 💬 Vamos nos conectar?
-
-Gosto de trocar ideias, colaborar em projetos e conhecer pessoas interessadas em tech. Se quer conversar sobre código, carreiras em tech ou qualquer outra coisa, me chama! 👇
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/letticiasabino/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/letticiasabino">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:letticiasabino@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/490568472154210315">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5521989280182?text=Ol%C3%A1%2C%20me%20chamo%20Sr(a)%20Fulano(a)%2C%20gostaria%20de...">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<br/>
 
 ---
 
-## 💡 Curiosidades Sobre Mim
+## `{ who_i_am }`
 
-- 🎧 Codifico melhor com música de fundo (trap, lofi, synthwave 🎶)
-- 📱 Mobile-first é meu mantra
-- ☕ Desenvolvedora alimentada por café e determinação
-- 🌙 Muitas vezes você me encontra debugando à noite
-- 🎯 Acredito que bom código muda vidas
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letticiasabino&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9f2bff&text_color=c4b5fd&langs_count=6" width="320" />
 
----
+Eu me chamo **Lettícia Sabino**, sou estudante de **Análise e Desenvolvimento de Sistemas na Faculdade das Américas (FAM)**, com início em **Sistemas de Informação** pela **Uni-FACEF (Centro Universitário Municipal de Franca** em julho de 2026 e desenvolvedora em formação pelo **Programadores do Amanhã** e **SoftexPE**.
 
-## 🌟 Estatísticas Rápidas
+Antes de entrar na tecnologia, construí anos de experiência em **vendas, customer success e atendimento ao cliente**. Entendo o lado humano de cada produto que construo.
 
-```
-┌─────────────────────────────────────────┐
-│  Linguagens Favoritas:  JS e Python     │
-│  Editor Preferido:      VSCode          │
-│  Café por dia:          3+ xícaras ☕  │
-│  Paciência com bugs:    ∞               │
-│  Entusiasmo por tech:   ∞∞∞             │
-└─────────────────────────────────────────┘
+Hoje escrevo código que resolve problemas reais, pratico boas práticas desde o início. Não estou me preparando para o mercado. Estou chegando nele.
+
+```typescript
+const letticia = {
+  focus:      "Full Stack Development",
+  status: "building in public — shipping to production",
+  currently:  ["Next.js", "Node.js + Express", "Python + Django"],
+  education:  ["ADS — FAM", "SI — Uni-FACEF"],
+  bootcamp:   "NTT DATA: Backend Java com Spring AI @ DIO",
+  background: ["Customer Success", "Sales", "User Empathy"],
+  english:    "Duolingo · Docs · Video classes — improving daily",
+  superpower: "transformar problema real em solução que funciona"
+};
 ```
 
+<br clear="right"/>
+
 ---
 
-## 📝 Licença & Último Update
+## `{ featured_work }`
 
-Este README foi criado com ❤️, café ☕ e muita criatividade.
+<div align="center">
 
-**Última atualização**: Fevereiro de 2025
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/letticiasabino/todo-api">📋 ToDo App — Full Stack</a></h3>
+      <p>API RESTful com CRUD completo de tarefas, frontend integrado e deploy em produção. Arquitetura real: Express + Sequelize + SQLite num único servidor.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=4ade80" />
+        <img src="https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sequelize-0d0d0d?style=flat-square&logo=sequelize&logoColor=52aee8" />
+        <img src="https://img.shields.io/badge/SQLite-0d0d0d?style=flat-square&logo=sqlite&logoColor=66b2ff" />
+        <img src="https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="https://todo-api-pi-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-9f2bff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/letticiasabino/todo-api" target="_blank"><img src="https://img.shields.io/badge/Código-0d0d0d?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/letticiasabino/meta_consultancy_system">🏢 Meta Consultancy System</a></h3>
+      <p>Sistema web de gestão de contratos e clientes para consultoria de RH. CRUD completo, autenticação Django e dashboard — entregue como MVP em equipe.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=f7d467" />
+        <img src="https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=44b78b" />
+        <img src="https://img.shields.io/badge/SQLite-0d0d0d?style=flat-square&logo=sqlite&logoColor=66b2ff" />
+        <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=e34f26" />
+        <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572b6" />
+      </p>
+      <a href="https://letticiasabino.github.io/meta_consultancy_system/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-9f2bff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/letticiasabino/meta_consultancy_system" target="_blank"><img src="https://img.shields.io/badge/Código-0d0d0d?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/letticiasabino/landing-page-nail">💅 Nail Designer — Landing Page</a></h3>
+      <p>Landing page premium focada em conversão para nail designers. Design sofisticado com glassmorphism, animações refinadas e mobile-first. Next.js App Router + TypeScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2015-0d0d0d?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178c6" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS%204-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Lucide-0d0d0d?style=flat-square&logo=lucide&logoColor=white" />
+      </p>
+      <a href="landing-page-nail.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-9f2bff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/letticiasabino/landing-page-nail" target="_blank"><img src="https://img.shields.io/badge/Código-0d0d0d?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/letticiasabino/AssisTech">⚡ AssisTech — Vibe Coding</a></h3>
+      <p>Landing page para assistência técnica desenvolvida em 30 minutos com a abordagem Vibe Coding — prototipação rápida, React + Framer Motion e resultado visual de alto impacto.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61dafb" />
+        <img src="https://img.shields.io/badge/Vite-0d0d0d?style=flat-square&logo=vite&logoColor=a855f7" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-0d0d0d?style=flat-square&logo=framer&logoColor=white" />
+      </p>
+      <a href="assis-tech-khaki.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-9f2bff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/letticiasabino/AssisTech" target="_blank"><img src="https://img.shields.io/badge/Código-0d0d0d?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## `{ tech_stack }`
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark)](https://skillicons.dev)
+
+**Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring&theme=dark)](https://skillicons.dev)
+
+**Database & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,git,github,vscode,vercel,vite&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178c6)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0d0d0d?style=flat-square&logo=framer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=4ade80)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=f7d467)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=44b78b)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=f89820)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-0d0d0d?style=flat-square&logo=spring&logoColor=6db33f)
+![Sequelize](https://img.shields.io/badge/Sequelize-0d0d0d?style=flat-square&logo=sequelize&logoColor=52aee8)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=flat-square&logo=sqlite&logoColor=66b2ff)
+![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=flat-square&logo=vite&logoColor=a855f7)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=f05032)
+![REST API](https://img.shields.io/badge/REST%20API-0d0d0d?style=flat-square&logo=fastapi&logoColor=9f2bff)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## `{ formation }`
+
+<div align="center">
+
+| Formação & Programas | Foco |
+|---|---|
+| 🎓 **SI — Uni-FACEF** (Centro Universitário Municipal de Franca) | Sistemas de Informação |
+| 🎓 **ADS — FAM** (Faculdade das Américas) | Análise e Desenvolvimento de Sistemas |
+| 💻 **Programadores do Amanhã** | Full Stack Development com JavaScript |
+| 🐍 **SoftexPE** | Python Backend Engineering |
+| ☕ **Bootcamp NTT DATA @ DIO** | Backend Java com Spring AI |
+| ☕ **Bootcamp ICT @ Avanti ** | Dev Full Stack |
+| 🌐 **Inglês técnico** | Duolingo · Documentações · Video aulas — em progresso diário |
+| 📦 **Autodidatismo contínuo** | Projetos práticos, comunidade, open sourc |
+
+</div>
+
+<br/>
+
+---
+
+## `{ github_analytics }`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=letticiasabino&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9f2bff&text_color=c4b5fd&icon_color=7c3aed&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=letticiasabino&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=9f2bff&ring=7c3aed&fire=9f2bff&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=9f2bff&sideLabels=7c3aed&dates=6b7280" />
+    </td>
+  </tr>
+</table>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=letticiasabino&bg_color=0d0d0d&color=9f2bff&line=7c3aed&point=c4b5fd&area=true&area_color=4f0d99&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=letticiasabino&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+## `{ voices_that_hit_different }`
+
+*Não motivação vazia. Verdades de quem fez.*
+
+<br/>
+
+> 💡 **Grace Hopper** — pioneira da computação e criadora do primeiro compilador
+>
+> *"A frase mais perigosa no idioma é: sempre fizemos assim."*
+
+<br/>
+
+> 🖥️ **Gladys West** — matemática que programou os satélites que deram origem ao GPS
+>
+> *"Se você está em posição de fazer algo, faça."*
+
+<br/>
+
+> 🌐 **Marian Croak** — engenheira que inventou o VoIP e hoje lidera IA responsável no Google
+>
+> *"Faça o trabalho. Não se preocupe com o reconhecimento."*
+
+<br/>
+
+> 👩🏾‍💻 **Kimberly Bryant** — fundadora da Black Girls CODE
+>
+> *"Queremos criar uma comunidade de garotas que sejam empoderadas para se tornarem catalysts de transformação em suas próprias comunidades."*
+
+<br/>
+
+> 🧠 **Katherine Johnson** — matemática da NASA cujos cálculos tornaram possíveis as missões Apollo
+>
+> *"Faça o seu trabalho tão bem que eles não possam ignorar você."*
+
+<br/>
+
+---
+
+## `{ next_chapter }`
+
+> ◆ **Now:** consolidar Next.js + Node.js com projetos end-to-end em produção
+
+> ◆ **Now:** concluir Bootcamp NTT DATA — Backend Java com Spring AI @ DIO
+
+> ◆ **Jul/26:** iniciar SI na Uni-FACEF — mais fundação, mais profundidade
+
+> ◆ **Ongoing:** microsserviços, IA aplicada, inglês técnico — todo dia, sem pausa
+
+> ◆ **Next:** contribuir para open source que resolve problema real
+
+> ◆ **Target:** primeiro role como Desenvolvedora Full Stack Jr — remote-ready
+
+> ◆ **Vision:** construir produto próprio com impacto real
+
+<br/>
+
+---
+
+## `{ let's_build_something }`
+
+<div align="center">
+
+Se você chegou até aqui, provavelmente temos algo a conversar.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lettícia%20Sabino-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/letticiasabino-desenvolvedora/)
+[![Email](https://img.shields.io/badge/Email-letticiasabino%40gmail.com-9f2bff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:letticiasabino@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2021%2098928--0182-7c3aed?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d)](https://wa.me/5521989280182)
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 🚀 Obrigada por visitar meu perfil!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f2bff,50:4f0d99,100:0d0d0d&height=120&section=footer&reversal=false" width="100%" />
 
-*Se encontrou algo interessante, deixe uma ⭐ em algum repositório!*
+<br/>
 
-![](https://komarev.com/ghpvc/?username=LeticiaSabino&color=ff006e&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=letticiasabino&color=9f2bff&style=flat-square&label=profile+views)
+
+**Lettícia Sabino** · Full Stack Developer · São Gonçalo, RJ 🇧🇷
+
+*Não estou esperando. Estou construindo.*
 
 </div>
-
----
-
-<p align="center">
-  🛠️ Construído com 💜 por <b>Lettícia Sabino</b>
-</p>
