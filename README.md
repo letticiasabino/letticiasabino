@@ -188,7 +188,7 @@ const letticia = {
 ## `{ github_analytics }`
 
 <div align="center">
-
+<!--
 <table>
   <tr>
     <td>
@@ -199,6 +199,13 @@ const letticia = {
     </td>
   </tr>
 </table>
+-->
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=letticiasabino&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=9f2bff&ring=7c3aed&fire=9f2bff&currStreakNum=c4b5fd&sideNums=c4b5fd&currStreakLabel=9f2bff&sideLabels=7c3aed&dates=6b7280"/>
+
+</div>
 
 <!--[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=letticiasabino&bg_color=0d0d0d&color=9f2bff&line=7c3aed&point=c4b5fd&area=true&area_color=4f0d99&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
