@@ -200,9 +200,21 @@ const letticia = {
   </tr>
 </table>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=letticiasabino&bg_color=0d0d0d&color=9f2bff&line=7c3aed&point=c4b5fd&area=true&area_color=4f0d99&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=letticiasabino&bg_color=0d0d0d&color=9f2bff&line=7c3aed&point=c4b5fd&area=true&area_color=4f0d99&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=letticiasabino&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=8&title=Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letticiasabino&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=letticiasabino&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=letticiasabino&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=letticiasabino&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=letticiasabino&theme=tokyonight&utcOffset=-3"/>
+
+</div>
 
 </div>
 
